@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://tifa-chen.github.io/2021/06/19/%E4%B8%AA%E4%BA%BA%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B/</loc>
+    <loc>https://tifa-chen.github.io/2021/06/20/%E4%B8%AA%E4%BA%BA%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B/</loc>
     
     <lastmod>2021-06-20</lastmod>
     
@@ -54,6 +54,13 @@
   
   <url>
     <loc>https://tifa-chen.github.io/tags/tag3/</loc>
+    <lastmod>2021-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tifa-chen.github.io/tags/blog/</loc>
     <lastmod>2021-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
