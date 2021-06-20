@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tifa-chen.github.io/2021/06/20/%E6%9D%83%E9%99%90%E8%BF%87%E6%BB%A4%E5%99%A8/</loc>
+    
+    <lastmod>2021-06-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tifa-chen.github.io/2013/12/02/my-first-blog/</loc>
     
     <lastmod>2021-06-20</lastmod>
@@ -61,6 +68,13 @@
   
   <url>
     <loc>https://tifa-chen.github.io/tags/blog/</loc>
+    <lastmod>2021-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tifa-chen.github.io/tags/java-Filter/</loc>
     <lastmod>2021-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
